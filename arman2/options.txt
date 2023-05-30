@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\Users\Administrator\Documents\VuGen\Scripts\WebHttpHtml1
+-IC:\LRE2022Host\include
+-ec:\users\administrator\documents\vugen\scripts\webhttphtml1\\logfile.log
+c:\users\administrator\documents\vugen\scripts\webhttphtml1\\combined_WebHttpHtml1.c
+c:\users\administrator\documents\vugen\scripts\webhttphtml1\\pre_cci.c
