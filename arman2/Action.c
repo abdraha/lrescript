@@ -18,7 +18,7 @@ Action()
 		"Snapshot=t2.inf", 
 		ITEMDATA, 
 		"Name=username", "Value=jojo", ENDITEM, 
-		"Name=password", "Value=beani", ENDITEM, 
+		"Name=password", "Value=bean", ENDITEM, 
 		"Name=login.x", "Value=48", ENDITEM, 
 		"Name=login.y", "Value=3", ENDITEM, 
 		LAST);
