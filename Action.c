@@ -12,7 +12,7 @@ Action()
 
 	lr_think_time(22);
 
-	lr_start_transaction("login123");
+	lr_start_transaction("login1234");
 
 	web_submit_form("login.pl", 
 		"Snapshot=t2.inf", 
@@ -23,7 +23,7 @@ Action()
 		"Name=login.y", "Value=3", ENDITEM, 
 		LAST);
 
-	lr_end_transaction("login123",LR_AUTO);
+	lr_end_transaction("login1234",LR_AUTO);
 
 	lr_think_time(13);
 
