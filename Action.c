@@ -12,7 +12,7 @@ Action()
 
 	lr_think_time(22);
 
-	lr_start_transaction("login");
+	lr_start_transaction("login4567");
 
 	web_submit_form("login.pl", 
 		"Snapshot=t2.inf", 
@@ -27,7 +27,7 @@ Action()
 
 	lr_think_time(13);
 
-	lr_start_transaction("logout");
+	lr_start_transaction("logout4567");
 
 	web_image("SignOff Button", 
 		"Alt=SignOff Button", 
